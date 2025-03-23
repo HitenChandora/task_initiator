@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465916303838",
+    "project_id": "techinitiator-b7f28",
+    "storage_bucket": "techinitiator-b7f28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465916303838:android:51096bc184577c2b3d654f",
+        "android_client_info": {
+          "package_name": "com.example.task_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Iyib77JVqMzNjPSNFcCt_J0QAGRxPuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
